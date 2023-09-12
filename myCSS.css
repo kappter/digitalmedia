@@ -4,14 +4,14 @@ body {
 	margin: 0 auto;
 }
 .homePage {
-	background: #A67458;
+	background: #260101;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #260101;
+	background: #B88C73;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -37,7 +37,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #F2CDAC;
+	background: #A67458;
 	margin: 0px;
 	float: left;
 	width: 100%;
