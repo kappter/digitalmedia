@@ -5,6 +5,17 @@ body {
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
      	background-color: #FFFFFF;
 }
+
+a:link {
+     color: #000000;
+}
+a:visited {
+     color: #000;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
+}
+
 .homePage {
 	background: #260101;
 }
@@ -14,6 +25,7 @@ body {
 }
 .header {
 	background: #F2CDAC;
+	font: New Century Schoolbook, TeX Gyre Schola, serif;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
